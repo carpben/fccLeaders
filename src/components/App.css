@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #070;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.ControlPanel {
+   margin: 30px auto;
+}
+
+table {
+   margin: 30px auto;
+}
+td, th {
+   padding: 5px 30px;
+   text-align: center
+
+}
